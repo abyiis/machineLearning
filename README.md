@@ -1,12 +1,6 @@
 # Proyecto: Comparación de Modelos de Aprendizaje Supervisado para regresión y clasificacion.
 
-## Autor
-juan david parra sierra             NRC 000475676
-Facultad de ciencias exactas, escuela de ingenierias.
-Ingenieria en sistemas e informatica.
-
-
-## 📌 Descripción General
+## Descripción General
 Este proyecto implementa y compara tres algoritmos de aprendizaje supervisado para resolver problemas de regresión y clasificacion:
 
 - **Linear Regression**
