@@ -13,7 +13,7 @@ Este proyecto implementa y compara tres algoritmos de aprendizaje supervisado pa
 
 ---
 
-## 🗂 Estructura del Proyecto
+## Estructura del Proyecto
 El proyecto está contenido en archivos Jupyter Notebook con las siguientes secciones:
 
 ### 1. Carga y Exploración Inicial
@@ -50,7 +50,7 @@ Se incluye validación cruzada para mayor robustez.
 
 ---
 
-## 🛠 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 - **Lenguaje:** Python 3.12  
 - **Librerías:**  
   - `pandas`, `numpy`  
@@ -60,7 +60,7 @@ Se incluye validación cruzada para mayor robustez.
 
 ---
 
-## 📈 Resultados
+## Resultados
 Cada modelo se evalúa usando varias métricas y validación cruzada.  
 Se incluyen gráficos para:
 
@@ -70,7 +70,7 @@ Se incluyen gráficos para:
 
 ---
 
-## 📋 Notas
+## Notas
 - El notebook está comentado en español para facilitar su comprensión.  
 - Todos los pasos son reproducibles. Los resultados pueden variar ligeramente por la aleatoriedad en la división de datos o en los algoritmos.  
 - Se incluyen consideraciones sobre **overfitting** y **underfitting**.
